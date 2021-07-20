@@ -18,3 +18,7 @@ High Quality Monocular Depth Estimation for Real-Time Applications via Transfer 
 ## Fine-Tuning
 
 ## Evaluation
+
+## Update
+* Trainig on kitti Dataset
+* Preparation of Data
